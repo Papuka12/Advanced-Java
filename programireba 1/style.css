@@ -1,0 +1,667 @@
+.cont {
+    font-size: 40px;
+    position: absolute;
+    top: 700px;
+    left: 500px;   
+}
+.centre {
+    position: absolute;
+    left: -140px;
+}
+.gamyopi {
+    width: 1890px;
+    border: 2px solid rgba(173, 173, 173, 0.568);
+    position: absolute;
+    top: 100px;
+}
+.zoomerqartuli {
+    position: absolute;
+    left: 550px;
+    top: 15px;
+}
+.search1 {
+    width: 500px;
+    height: 30px;
+    position: absolute;
+    top: 34px;
+    left: 800px;
+    border: 3px solid gray;
+    border-radius: 20px;
+}
+.div1 {
+    border: 5px solid rgb(199, 198, 198);
+    width: 400px;
+    height: 520px;
+    background-color: white;
+    position: absolute;
+    right: 525px;
+    top: 140px;
+    border-radius: 50px;
+    a {text-decoration: underline rgb(116, 247, 207);
+        color: black;
+    }
+    transition: .5s ease-in-out;
+}
+.div2 {
+    border: 5px solid rgb(199, 198, 198);
+    width: 400px;
+    height: 520px;
+    position: absolute;
+    left: 525px;
+    top: 140px;
+    border-radius: 50px;
+    a {text-decoration: underline rgb(116, 247, 207);
+        color: black;
+    }    
+    background-color: white;
+    transition: .5s ease-in-out;
+}
+.div3 {
+    border: 5px solid rgb(199, 198, 198);
+    width: 400px;
+    height: 520px;
+    background-color: white;
+    position: absolute;
+    top: 700px;
+    left: 525px;    
+    border-radius: 50px;
+    a {text-decoration: underline rgb(116, 247, 207);
+        color: black;
+    }
+    transition: .5s ease-in-out; 
+}
+.div4 {
+    border: 5px solid rgb(199, 198, 198);
+    width: 400px;
+    height: 520px;
+    background-color: white;
+    position: absolute;
+    top: 700px;
+    right: 525px;  
+    border-radius: 50px;
+    a {text-decoration: underline rgb(116, 247, 207);
+        color: black;
+    }
+    transition: .5s ease-in-out;
+}
+.div1:hover {
+    background-color: rgba(255, 250, 250, 0.555);
+    width: 410px;
+    height: 530px;
+}
+.div2:hover {
+    background-color: rgba(255, 250, 250, 0.555);
+    width: 410px;
+    height: 530px;
+}
+.div3:hover {
+    background-color: rgba(255, 250, 250, 0.555);
+    width: 410px;
+    height: 530px;
+}
+.div4:hover {
+    background-color: rgba(255, 250, 250, 0.555);
+    width: 410px;
+    height: 530px;
+}
+.body {
+    background-color: rgba(223, 223, 223, 0.5);
+}
+.abotuuu {
+    font-size:30px;
+    position: absolute;
+    right: 699px;
+    top: 50px;
+}
+.პრეამბულა {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    font-size: 20px;
+    color: grey;
+}
+.პრეამბულა1 {
+    position: absolute;
+    top: 190px;
+    left: 100px;
+    font-size: 20px;
+    color: rgb(0, 0, 0)
+}
+.ტერმინთა-განმარტება {
+    position: absolute;
+    top: 380px;
+    left: 100px;
+    font-size: 20px;
+    color: grey;
+}
+.ტერმინთა-განმარტება1 {
+    position: absolute;
+    top: 420px;
+    left: 100px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+
+}
+.ხელშეკრულების-გაფორმების-ზოგადი-წესები {
+    position: absolute;
+    top: 890px;
+    left: 100px;
+    font-size: 20px;
+    color: grey;
+}
+.ხელშეკრულების-გაფორმების-ზოგადი-წესები1 {
+    position: absolute;
+    top: 930px;
+    left: 100px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.საქონლის-მიწოდების-ვადა {
+    position: absolute;
+    top: 1150px;
+    left: 100px;
+    font-size: 20px;
+    color: grey;
+}
+.საქონლის-მიწოდების-ვადა1 {
+    position: absolute;
+    top: 1190px;
+    left: 100px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+.gamotoveba {
+    position: absolute;
+    top: 1400;
+}
+.centre1 {
+    position: absolute;
+    top: 1500px;
+    left: 850px;
+}
+.ukan {
+    position: absolute;
+    top: 80px;
+    left: 890px;
+    text-decoration: underline 3px rgb(116, 247, 207);
+        color: black;
+}
+.body11 {
+    background-color: rgba(223, 223, 223, 0.5);
+}
+.body111{
+    background-color: hsl(34, 27%, 85%)
+}
+.div11{
+    margin-left: 610px;
+    margin-top: 220px;
+}
+.div22{
+    margin-left: 930px;
+    margin-top: -450px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <700>;
+    font-style: normal;
+     }
+
+.div33{
+margin-left: 930px;
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: <700>;
+font-style: normal;
+     }
+
+.div44{
+    margin-left: 930px;
+    margin-top: -25px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <700>;
+    font-style: normal;
+}
+.div55{
+    margin-left: 930px;
+    margin-top: -25px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <700>;
+    font-style: normal;
+}
+.div66{
+    margin-left: 930px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <500>;
+    font-style: normal;
+}
+.div77{
+    margin-left: 930px;
+    margin-top: -10px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <500>;
+    font-style: normal;
+}
+.div88{
+    margin-left: 930px;
+    margin-top: -10px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <500>;
+    font-style: normal;
+}
+.div99 {
+    margin-left: 930px;
+    margin-top: -10px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <500>;
+    font-style: normal;
+}
+.div100{
+    margin-left: 930px;
+    color: rgb(22, 97, 22);
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: <700>;
+    font-style: normal;
+    font-variation-settings:
+      "SOFT" 0,
+      "WONK" 0;
+}
+.div111{
+    color: hsl(228, 12%, 48%);
+    margin-left: 1070px;
+    margin-top: -50px;
+    text-decoration: line-through;
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: <700>;
+    font-style: normal;
+    font-variation-settings:
+      "SOFT" 0,
+      "WONK" 0;
+}
+.div122{
+ margin-left: 935px;
+ margin-top: 50px;
+ border-radius: 10px; 
+     background-color: rgb(37, 107, 37);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    width: 130px;
+    height: 25px;
+  }
+  .qali2 {
+    border-radius: 50%;
+    width: 100px;
+   position: absolute;
+   left: 130px;
+   top: 30px;
+  }
+  .qali3 {
+   position: absolute;
+   right: 120px;
+   color: hsl(0, 0%, 100%);
+   font-size: 20px;
+   top: 120px;
+   font-family: "Inter", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 700;
+   font-style: normal;
+   font-variation-settings:
+     "slnt" 0;
+  }
+  .qali4 {
+    position: absolute;
+    right: 103px;
+    font-size: 15px;
+    color: hsl(75, 94%, 57%);
+    top: 159px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  .qali5 {
+    position: absolute;
+    right: 70px;
+    font-size: 13px;
+    color: hsl(0, 0%, 100%);
+    top: 195px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0; 
+  }
+  .qali6 {
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 115px;
+    border-radius: 10px;
+    width: 170px;
+    position: absolute;
+    left: 40px;
+    top: 225px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  .qali7 {
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 115px;
+    border-radius: 10px;
+    width: 170px;
+    position: absolute;
+    left: 40px;
+    top: 302px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  .qali8 {
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 115px;
+    border-radius: 10px;
+    width: 170px;
+    position: absolute;
+    left: 40px;
+    top: 375px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  .qali9 {
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    padding-top: 17px;
+    padding-bottom: 17px; 
+    padding-left: 115px;
+    border-radius: 10px;
+    width: 170px;
+    position: absolute;
+    left: 40px;
+    top: 448px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  .qali10 {
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+   padding-top: 17px;
+   padding-bottom: 17px;
+    padding-left: 115px;
+    border-radius: 10px;
+    width: 170px;
+    position: absolute;
+    left: 40px;
+    top: 520px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  .qalibody {
+    background-color: hsl(0, 0%, 8%);
+  }
+  .qali6:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+  }
+.qali7:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.qali8:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.qali9:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.qali10:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.ukan1234 {
+    position: absolute;
+    top: -90px;
+    left: 120px;
+    a {text-decoration: underline 3px rgb(116, 247, 207);
+        color: rgb(255, 255, 255);
+    }
+    font-size: 20px;
+}
+.papuka4 {
+    border-radius: 50%;
+    width: 120px;
+    margin-top: 100px;
+}
+.papukabodylamazi {
+    background-color: rgba(0, 0, 0, 0.932);
+}
+.papuka5 {
+    position: absolute;
+    width: 30px;
+    left: 895px;
+    top: 350px;
+}
+.papuka6 {
+    position: absolute;
+    width: 30px;
+    left: 945px;
+    top: 350px;
+}
+.papuka7 {
+    position: absolute;
+    width: 30px;
+    left: 995px;
+    top: 350px;
+}
+.papuka {
+    font-size: 30px;
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "XROT" 0,
+      "YROT" 0;
+      color: white;
+      position: absolute;
+      left: 907px;
+      top: 200px;
+}
+.papuka2 {
+    position: absolute;
+    left: 830px;
+    top: 270px;
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "XROT" 0,
+      "YROT" 0;
+      color: white;
+}
+.papuka3 {
+    position: absolute;
+    left: 880px;
+    top: 290px;
+    font-family: "Tilt Neon", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "XROT" 0,
+      "YROT" 0;
+      color: white;  
+}
+.papukukandaixie {
+    position: absolute;
+    top: 0px;
+    left: 900px;
+    text-decoration: underline 3px rgb(116, 247, 207);
+    color: brown;
+    font-size: 20px;
+}
+.foot {
+    position: absolute;
+    right: 830px;
+    top: 1250px;
+}
+.linkebi {
+    position: absolute;
+    top: 300px;
+    left: 800px;
+}
+.magaribiwimamujan {
+    color: red;
+    position: absolute;
+    left: 860px;
+    top: 100px;
+}
+.h {
+    border: 2px solid rgba(0, 0, 0, 0.644);
+    width: 1000px;
+    height: 700px;
+    position: absolute;
+    left: 400px;
+    top: 150px;
+    border-radius: 40px;
+}
+.iphone155 {
+    position: absolute;
+    top: 130px;
+    left: 70px;
+}
+.header {
+    position: fixed;
+    z-index: 5;
+    width: 1890px;
+    height: 100px;
+    background-color: rgba(223, 223, 223, 0.568);
+}
+.iphone1555 {
+    position: absolute;
+    top: 110px;
+    left: 160px;
+}
+.ekraniszoma1 {
+    position: absolute;
+    top: 220px;
+    left: 430px;
+    font-size: 17px;
+    color: gray;
+}
+.inches1 {
+    position: absolute;
+    top: 220px;
+    left: 650px;
+    font-size: 17px;
+}
+.ekraniszoma2 {
+    position: absolute;
+    top: 270px;
+    left: 430px;
+    font-size: 17px;
+    color: gray;
+}
+.inches2 {
+    position: absolute;
+    top: 270px;
+    left: 650px;
+    font-size: 17px;
+}
+.ekraniszoma3 {
+    position: absolute;
+    top: 320px;
+    left: 430px;
+    font-size: 17px;
+    color: gray;
+}
+.inches3 {
+    position: absolute;
+    top: 320px;
+    left: 650px;
+    font-size: 17px;
+}
+.ekraniszoma4 {
+    position: absolute;
+    top: 370px;
+    left: 430px;
+    font-size: 17px;
+    color: gray;
+}
+.inches4 {
+    position: absolute;
+    top: 370px;
+    left: 650px;
+    font-size: 17px;
+}
+.fulikaia {
+font-size: 30px;
+position: absolute;
+left: 480px;
+top: 450px;
+font-weight: 600;
+}
+.valebii {
+position: absolute;
+top: 500px;
+left: 450px;
+font-weight: 600;
+}
+.yidva {
+    background-color: hsl(0, 0%, 87%);
+    color: hsl(0, 0%, 0%);
+    padding-top: 17px;
+    padding-bottom: 27px;
+    padding-left: 115px;
+    padding-right: 20px;
+    border-radius: 40px;
+    width: 160px;
+    position: absolute;
+    left: 370px;
+    top: 560px;
+    border: 3px solid rgb(54, 54, 54);
+    font-size: 25px;
+    font-weight: 900;
+    text-decoration: none;
+}
